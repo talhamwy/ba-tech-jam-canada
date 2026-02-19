@@ -23,6 +23,6 @@ Day 2
 13:00 - Operational Decision Manager - Decision Server [Robert Peeren]  
 13:30 - Operational Decision Manager Decision Server Lab. [Robert Peeren]  
 15:00 - Business Automation Workflow Roadmap [Swapnil Agrawal]  
-16:00 - Ecosystem  
+16:00 - Meet The Engineering Team
 16:30 - Day 2 & event wrap-up  
   
