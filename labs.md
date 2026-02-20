@@ -20,13 +20,3 @@ The table below lists the labs we'll be covering during our Tech Jam.
 
 Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**.
 
-
-[Client Onboarding Desktop](https://cpd-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
-[Local Mail Client](https://roundcubenginx-mail.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
-[IBM Business Automation Studio](https://cpd-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
-[IBM Business Performance Center (BPC)](https://cpd-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/bai-bpc)  
-[IBM Content Platform Engine ACCE](https://cpd-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/cpe/acce)  
-[IBM Content Services GraphQL](https://cpd-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql/)  
-[ICN Desktop](https://cpd-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=ICN)  
-[IBM Business Automation Workplace](https://cpd-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=workplace)  
-[Case Client](https://cpd-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=baw)  
