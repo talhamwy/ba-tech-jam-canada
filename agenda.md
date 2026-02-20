@@ -7,7 +7,7 @@ Day 1
 
 09:00 - Kickoff   
 09:30 - Introduction to Business Automation Workflow [Paul Pacholski]  
-10:30 - Business Automation Workflow Lab. [Paul Pacholski]  
+10:30 - Business Automation Workflow Lab. [Robert Peeren]  
 12:00 - Lunch  
 13:00 - Introduction to FileNet [Sundeep Anne]  
 13:30 - FileNet Lab [Sundeep Anne]  
