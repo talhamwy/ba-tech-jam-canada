@@ -12,8 +12,8 @@ Day 2: March 5, 2026 9:00am - 5:00pm EST
 - [Agenda](https://github.com/talhamwy/ba-tech-jam-canada/blob/main/agenda.md)
 
 ## Event Overview
-The Business Automation Tech Jam is a 2-day in-person hands-
-on event designed to introduce you to experiences of IBM's
+The Business Automation Tech Jam is a 2-day in-person hands-on
+event designed to introduce you to experiences of IBM's
 Business Automation product set. This event will empower you
 with the skills and knowledge to deliver the value of business
 automation to you customers, using the Intelligent Client
