@@ -16,7 +16,20 @@ The table below lists the labs we'll be covering during our Tech Jam.
 | [IBM Operational Decision Manager](tbd) | [Jam-in-a-Box 2](https://techzone.ibm.com/collection/ibm-business-automation-traditional-and-on-premise) |      3 hours        | - | - |
 
 
-## System URLs
+## Credentials & System URLs
 
-Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**.
+### Jam-in-a-Box 1 Environment
+
+The lab instructions are written in context of a Tech Jam event. When performing the labs as part of Jam-in-a-Box keep in mind:
+
+| Lab instructions mention...                                  | As part of this Jam-in-a-Box environment...                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| using the **URLs** found on the Tech Jam event page          | please use the **bookmarks** created for you in **Firefox**  |
+| how to receive your **user credentials** using a link on the Tech Jam event page | please use the **credentials stored** within **Firefox** for either the admin user **cp4badmin** or the business user **usr001** |
+| to **prefix your artifacts** with "usrXYZ"                   | you may choose to still follow the instructions in this point, even when this is not strictly required as this is a single-user environment |
+
+
+### Jam-in-a-Box 2 Environment
+
+TBD
 
