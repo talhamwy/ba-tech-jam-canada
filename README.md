@@ -24,7 +24,7 @@ This 2-day virtual event will feature:
 1. Expert-led Sessions: Gain insights from industry experts
 sharing their vision and roadmaps on AI-driven business
 automation
-2. Hands-on Labs: Engage in practical exercises helping you
+2. [Hands-on Labs](https://github.com/talhamwy/ba-tech-jam-canada/blob/main/labs.md): Engage in practical exercises helping you
 create parts of an end-to-end Intelligent Client Onboarding
 scenario. Learn how to build solutions using Business
 Automation Workflow (BAW) for your business flow, design
