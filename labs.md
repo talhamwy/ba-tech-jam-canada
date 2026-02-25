@@ -31,5 +31,5 @@ The lab instructions are written in context of a Tech Jam event. When performing
 
 ### Jam-in-a-Box 2 Environment
 
-TBD
+Instructions will be provided in-class.
 
