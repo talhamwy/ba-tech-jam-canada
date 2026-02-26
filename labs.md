@@ -31,5 +31,6 @@ The lab instructions are written in context of a Tech Jam event. When performing
 
 ### Jam-in-a-Box 2 Environment
 
-Instructions will be provided in-class.
+Reserve an environment at ibm.biz/ba-tech-jam-canada-jam-in-a-box2  
+use password: ba-tech-jam-canada
 
