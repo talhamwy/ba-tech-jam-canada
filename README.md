@@ -9,7 +9,8 @@ Business Automation Tech Jam - Canada
 Day 1: February 26, 2026 9:00am - 5:00pm EST  
 Day 2: March 5, 2026 9:00am - 5:00pm EST
 - Audience: IBMers
-- [Agenda](https://github.com/talhamwy/ba-tech-jam-canada/blob/main/agenda.md)
+- [Agenda](https://github.com/talhamwy/ba-tech-jam-canada/blob/main/agenda.md)  
+- Slack [#ba-tech-jam-canada](https://ibm.enterprise.slack.com/archives/C0AH9F3BUMC)
 
 ## Event Overview
 The Business Automation Tech Jam is a 2-day in-person hands-on
