@@ -22,6 +22,9 @@ The table below lists the labs we'll be covering during our Tech Jam.
 
 The lab instructions are written in context of a Tech Jam event. When performing the labs as part of Jam-in-a-Box keep in mind:
 
+## Note
+Once you reserve the Jam‑in‑a‑Box environment, please be sure to follow the preparation steps before starting the Content Labs. Use the instructions in the [Reserve and Prepare the Jam‑in‑a‑Box Single User Environment](https://ibm.github.io/cp4ba-jam-in-a-box/23.0.2/Solutions/Client%20Onboarding/)  guide and run those steps immediately after reserving the environment.
+
 | Lab instructions mention...                                  | As part of this Jam-in-a-Box environment...                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | using the **URLs** found on the Tech Jam event page          | please use the **bookmarks** created for you in **Firefox**  |
